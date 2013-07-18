@@ -1,0 +1,7 @@
+development:
+ adapter: mysql2
+ database: facebook_db
+ socket: /opt/lampp/var/mysql/mysql.sock
+ timeout: 5000
+ username: root
+ password:
